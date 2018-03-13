@@ -35,7 +35,6 @@
 *   The optimalisation of the visual progress is terrible.
     The website does not show any content till every content is loaded.
     This problem leads up to a huge visaul progress area. 
-    ![Visual Progress CMD Amstedam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/visual%20progress%20cmd%20amsterdam.png)
 
 ## HTTP optimisation
 
@@ -49,7 +48,6 @@
     In the website there are a lot of css and js files being loaded.
     HTTP1 can only request a maximum of request at one time.
     This means this procces will take a lot longer.
-    ![Request CMD Amsterdam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/73aee4dda5a82919ab88d80fb735fb79.png)
 
 ### HTTP/2
 
