@@ -26,7 +26,7 @@
 ## Miscellaneous
 
 *   Tip: Different profile / user in Chrome without extensions
-*   Add some more points here...
+*   There are a few woocommerce files in the website, but there is no webshop. It seems unnecessary to keep those files, and it could really save some kb's when you delete the files
 
 ## Audits
 
