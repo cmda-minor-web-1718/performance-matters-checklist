@@ -114,6 +114,7 @@
 ### CSS
 
 *   Add some more points here...
+*   Remove unused CSS files
 
 ### HTML
 
