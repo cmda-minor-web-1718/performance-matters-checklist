@@ -88,10 +88,12 @@ Check if you dont have double tags and minify it.
 
 ### Images
 
-*   The images are a bit big for performance
-[]()
-
+*   The images are a bit big for performance.
 Compress them to get a beter experience.
+
+![](comp_image)
+[source](https://www.webpagetest.org/result/180313_6X_8bfc7081e7066c68c99d8cd696ee3fe9/1/breakdown/)
+
 
 ### CSS
 
