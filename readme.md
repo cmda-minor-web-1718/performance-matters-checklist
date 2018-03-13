@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   Some images are pretty large (jesse-landscape.jpg, Music-Vault-1-web.jpg). When using an image compressor (like tinyjpg.com), only jesse-landscape.jpg saves 75% (436kb) of the file size. When compressing all the images, you should save up to 700kb of the file sizes.
 
 ### CSS
 
