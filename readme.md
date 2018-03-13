@@ -42,12 +42,10 @@
 
 ### HTTP/2
 
-*   Add support for HTTP/2. To do this you will need `ALPN`. To get support for this you will need to check your version
+*   Add support for HTTP/2.
+    To do this you will need `ALPN`.
+    To get support for this you will need to check your version
     of apache/nginx and OpenSSL.
-
-![add support][http2]
-
-[http2]: ./http2.png
 
 ## Caching
 
