@@ -92,9 +92,11 @@
 
 *   Add some more points here...
 
-### JavaScript
-
+ ### JavaScript
+ 
 *   Add some more points here...
+*  Make all scripts tags in the head tag async so it doesn't block the rendering of the DOM <script async src="my.js"> (Source 1)
+*  Load scripts that are not used immediately later. Like the scripts for commerce. (Source 1)
 
 ### Fonts
 
@@ -103,3 +105,6 @@
 ## Backend optimisation
 
 *   Add some more points here...
+
+## BRONNEN
+1. [Developer Tools Google](https://developers.google.com/)
