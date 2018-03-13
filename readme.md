@@ -54,7 +54,10 @@
 
 ### Images
 
-*   Add some more points here...
+> **bronnen** :  
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2F     https://www.webpagetest.org/result/180313_N0_2c6123c4facd2e5983dce0dbdbe7a240/2/details/#waterfall_view_step1
+*   The file https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg (what is visible above the fold), isnt minified and on moment of writing takes 689.14kb[1] (which consumes 1230ms[2]) to load. With the techniques described below https://developers.google.com/speed/docs/insights/OptimizeImages there could be saved up to 602kb (84%).
+*   The same is true for https://www.cmd-amsterdam.nl/wp-content/uploads/2015/01/cmd_hva_logo_black-1.png, which is now 33kb[1] (115ms[2]) and can be reduced by 31.9kb (93%) following the above techniques.
 
 ### CSS
 
