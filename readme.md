@@ -108,6 +108,7 @@
 ### Fonts
 
 *   Add some more points here...
+*   Make subsets of icon fonts
 *   Add a fallback font
 
 ## Perceived Performance
