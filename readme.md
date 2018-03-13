@@ -39,7 +39,6 @@
 ### HTTP/1
 
 
-
 ### HTTP/2
 
 
@@ -74,8 +73,6 @@
 *   Add some more points here...
 
 ### Images
-
-
 
 
 ### CSS
