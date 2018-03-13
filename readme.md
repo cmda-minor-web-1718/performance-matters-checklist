@@ -38,6 +38,7 @@
 
 ### HTTP/1
 
+
 *   Add some more points here...
 
 ### HTTP/2
@@ -94,7 +95,7 @@
 
 ### JavaScript
 
-*   Add some more points here...
+*   Javascript/CSS later inladen om het renderen niet te blocken. Door de vele javascript files in de head wordt het renderen van de pagina vertraagd.
 
 ### Fonts
 
