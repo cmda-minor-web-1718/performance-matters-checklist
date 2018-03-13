@@ -38,29 +38,26 @@
 
 ### HTTP/1
 
-*   Add some more points here...
+* Bundle & Minify JS
+* Bundle & Minify CSS
 
 ### HTTP/2
 
-*   Add some more points here...
 * Enable HTTP2 (https://tools.keycdn.com/http2-test)
 
 ## Caching
 
-*   Add some more points here...
+* Cache static files and/or use a CDN (https://www.webpagetest.org/result/180313_13_40f7149ffa0b99cc20f45077d3730076/1/performance_optimization/)
 
 ## Minification
 
-*   Add some more points here...
-
 ### Images
 
-*   Add some more points here...
 * Compress image: FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg | https://www.webpagetest.org/result/180313_13_40f7149ffa0b99cc20f45077d3730076/1/performance_optimization/
 
 ### CSS
 
-*   Add some more points here...
+* Bundle & Minify CSS
 
 ### HTML
 
@@ -68,7 +65,7 @@
 
 ### JavaScript
 
-*   Add some more points here...
+* Bundle & Minify JS
 
 ### Fonts
 
@@ -84,11 +81,12 @@
 
 ### Images
 
-*   Add some more points here...
+
+
 
 ### CSS
 
-*   Add some more points here...
+* Add above-the-fold critical CSS
 
 ### HTML
 
@@ -96,7 +94,6 @@
 
 ### JavaScript
 
-*   Add some more points here...
 * Remove complete slider functionality, since it's just an image
 
 ### Fonts
