@@ -58,6 +58,7 @@
 ## Caching
 
 *   Add some more points here...
+*   Specify an expiration at least one week in the future for resources
 *   Leverage browser caching.
 
 ## Minification
