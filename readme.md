@@ -56,12 +56,6 @@ De website is niet optimaal voor HTTP/1, aangezien er enorm veel kleine bestande
 
 ### Images
 
-De afbeeldingen zijn veels te groot, met een goede compressie valt hier veel ruimte te besparen. Als ik uitga van een 2G download snelheid van 280 kb/s, en de potentiele savings 548kb zijn, kan je zeggen dat je met een compressie 2 seconden kan besparen.
-
-*   724.4 KB total in images, target size = 175.8 KB - potential savings = 548.5 KB
-
-FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg
-
 ### CSS
 
 *   Add some more points here...
