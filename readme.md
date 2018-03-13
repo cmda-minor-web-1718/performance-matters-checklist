@@ -42,7 +42,7 @@
 
 ### HTTP/2
 
-*   Add some more points here...
+*   De website/server maakt gebruik van HTTP1 (te zien in de console -> network -> protocol). Hierdoor worden er maar een aantal files als eerst tegelijk geladen en de eerst volgende file pas wanneer de eerste klaar is met laden, enzovoorts. Omdat er best wel veel files voor deze website ingeladen moeten worden is het handiger als er gebruik gemaakt wordt van HTTP2.
 
 ## Caching
 
@@ -54,11 +54,7 @@
 
 ### Images
 
-*   De plaatjes kunnen veel kleiner dan dat ze al zijn.
-
-"753.2 KB total in images, target size = 204.6 KB - potential savings = 548.5 KB
-
-FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg" [bron](https://www.webpagetest.org/result/180313_JX_951816162f30c1c390b06c372530213f/1/performance_optimization/)
+*   Add some more points here...
 
 ### CSS
 
@@ -98,7 +94,7 @@ FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.c
 
 ### JavaScript
 
-*   Als het mogelijk is, probeer van de woocommerce files af te komen, deze zorgen ervoor dat andere files later worden ingeladen. [bron](https://www.webpagetest.org/result/180313_JX_951816162f30c1c390b06c372530213f/2/details/#waterfall_view_step1)
+*   Add some more points here...
 
 ### Fonts
 
