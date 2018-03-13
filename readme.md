@@ -107,6 +107,7 @@
 ### Fonts
 
 *   Add some more points here...
+*   Add a fallback font
 
 ## Perceived Performance
 
