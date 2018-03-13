@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   In the header there is a background image in the div. This can better be replaced by a <picture> tagg. You have way more options to optimize it for web use this way. I found the information on https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 
 ### CSS
 
@@ -82,7 +82,7 @@
 
 ### Images
 
-*   The images must be compressed to a smaller size for faster performance rate. I tested this by using the https://www.webpagetest.org website. 
+*   Add some more points here...
 
 ### CSS
 
