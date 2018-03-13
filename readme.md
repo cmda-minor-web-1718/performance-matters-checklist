@@ -135,6 +135,7 @@
 ### JavaScript
 
 *   Add some more points here...
+*   Load JavaScript and CSS later so they don’t block rendering
 *   Combine javascript files > less server requests. Also, move script links in HTML head to bottom of document
 *   Add defer and async to all Javascript imports where the Jasavscript is not necesarry to render above-the-fold content
 *   Make use of `<script src="index-6a14b2.js" defer></script>` to load your javascript after the DOM has been rendered. Load early, execute after the DOM is ready. You could do this conditionally via [@filamentgroup](https://github.com/filamentgroup/loadJS)
