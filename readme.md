@@ -66,6 +66,7 @@
 
 ### JavaScript
 
+*   Add some more points here...
 *   Minify the Javascript: You could do this manually by going to [js compress](https://jscompress.com/) but you could use Gulp or any taskworker that can use UglifyJS. Minification removes unnecessary data and unnecessary spaces and misc. To improve the loadspeed and a small decrease in size.
 
 ### Fonts
@@ -99,6 +100,7 @@
 
 ### Fonts
 
+*   Add some more points here...
 *   Content isn't being loaded because of the font. It takes a long time. After 29 seconds. You could use `font-display: swap;`. But on [CanIUse.com](https://caniuse.com/#search=font-display) it's not really that supported. Best way todo this is probably store your font in the cookies. You load the fallback in first and when you stored the font in the Cookies you just swap the font to the main font. This is what this does `font-display: swap;` but the latter way is more supported.
 
 ## Backend optimisation
