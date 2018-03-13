@@ -150,6 +150,9 @@
 
 ### CSS
 
+*   Minifying CSS. 
+    Minify CSS to save bytes.
+    You will have fewer lines of CSS to download and run.
 *   Add some more points here...
 *   Minify CSS and JS:
     Removing all unnecessary characters from source code without changing its functionality.
