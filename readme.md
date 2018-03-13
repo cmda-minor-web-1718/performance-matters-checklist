@@ -146,6 +146,7 @@
 ### CSS
 
 *   Add some more points here...
+*   Add inline critical CSS
 *   Remove unused CSS files
 
 ### HTML
