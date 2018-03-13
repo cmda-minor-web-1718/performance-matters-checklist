@@ -70,9 +70,8 @@
 
 ### Fonts
 
-*   Add a fallback font.
-    The loading of the custom fonts takes 16 seconds! on slow 3G.
-    [Source](https://www.cmd-amsterdam.nl/cmd/)
+*   Add some more points here...
+*   Add a fallback font
 
 ## Perceived Performance
 
