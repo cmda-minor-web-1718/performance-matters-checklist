@@ -66,7 +66,7 @@
 
 ### JavaScript
 
-*   Add some more points here...
+*   Parce JavaScript using Defer.
 
 ### Fonts
 
