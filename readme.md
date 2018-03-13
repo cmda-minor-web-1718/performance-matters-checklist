@@ -39,7 +39,7 @@
 ### HTTP/1
 
 *   Add some more points here...
-De website is niet optimaal voor HTTP/1, aangezien er enorm veel kleine bestanden zijn, download het vaak steeds 6 tot 8 bestanden per keer. Bij HTTP/2 zou dit probleem verholpen moeten zijn.
+The website has too many small files that have to be downloaded, HTTP/1 can't deal with this properly. Can only download 6-8 files at a time.
 ![alt text](http://i.imgur.com/HkoOZYp.jpg "HTTP/1")
 
 ### HTTP/2
