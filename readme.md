@@ -82,7 +82,10 @@
 
 ### Images
 
-*   Hoofdafbeelding comprimeren / meerdere afbeelding groottes meegeven in CSS / Client hints / Picture tag. De afbeelding heeft met een lage internetsnelheid een content download tijd van ruim 14 seconden.
+*   Add some more points here...
+*   Compress main images
+*   Client hints
+*   Picture tag
 
 ### CSS
 
