@@ -58,7 +58,10 @@
 
 ### CSS
 
-*   Add some more points here...
+*   The css could have some adjustments.
+The graph shows that the css is heavy to load.
+
+Check if you dont have double tags.
 
 ### HTML
 
