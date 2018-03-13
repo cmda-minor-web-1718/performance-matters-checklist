@@ -54,7 +54,8 @@
 
 ### Images
 
-*   Optimise Image Sizes.
+*   Add some more points here...
+*   Optimise image sizes
 
 ### CSS
 
