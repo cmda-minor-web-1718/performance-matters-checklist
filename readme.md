@@ -58,7 +58,13 @@
 
 ### CSS
 
-*   Add some more points here...
+*   The css could have some adjustments.
+The graph shows that the css is heavy to load.
+![graph with the data](graph.png)
+
+Check if you dont have double tags and minify it.
+![what could get compressed](mini.png)
+[Source](https://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
 
 ### HTML
 
@@ -82,7 +88,12 @@
 
 ### Images
 
-*   Add some more points here...
+*   The images are a bit big for performance.  
+Compress them to get a beter experience.
+
+![](comp_image.png)
+[source](https://www.webpagetest.org/result/180313_6X_8bfc7081e7066c68c99d8cd696ee3fe9/1/breakdown/)
+
 
 ### CSS
 
