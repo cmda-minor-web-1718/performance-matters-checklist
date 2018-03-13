@@ -64,6 +64,7 @@ The graph shows that the css is heavy to load.
 
 Check if you dont have double tags and minify it.
 ![what could get compressed](mini.png)
+[Source](https://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
 
 ### HTML
 
