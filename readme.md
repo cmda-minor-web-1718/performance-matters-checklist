@@ -55,7 +55,7 @@
 ### Images
 
 *   To use inline images for the hero image instead of a background image. This way you can add more options such as
-    file type (for `jpg`, `png` or `webp`) or file size (for the image width or image density) when using something like [<picture>] or the `srcset` on the `<img>` tag.
+    file type (for `.jpg`, `.png` or `.webp`) or file size (for the image width or image density) when using something like [<picture>] or the `srcset` on the `<img>` tag.
 
 [<picture>]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 
