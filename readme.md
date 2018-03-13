@@ -58,8 +58,8 @@
 
 ### CSS
 
-*   Make smaller CSS files, over 21.000 lines is way to big.
-    [Source](https://www.cmd-amsterdam.nl/wp-content/themes/salient-7.5.02-good/style.css?ver=7.5)
+*   Add some more points here...
+*   Make CSS files smaller
 
 ### HTML
 
