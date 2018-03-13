@@ -66,7 +66,7 @@
       <img alt="Description of the image" src="l.jpg">
      </picture>
      ```
-     ![Image][first.png]
+     ![Image][https://github.com/s44s/performance-matters-checklist/blob/master/first.png]
 
 ### CSS
 
