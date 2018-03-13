@@ -151,6 +151,8 @@
 ### CSS
 
 *   Add some more points here...
+*   Minify CSS and JS:
+    Removing all unnecessary characters from source code without changing its functionality.
 *   Add inline critical CSS
 *   Remove unused CSS files
 
