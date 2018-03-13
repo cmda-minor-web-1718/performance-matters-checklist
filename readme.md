@@ -46,7 +46,7 @@
 
 ## Caching
 
-*   Add some more points here...
+*   There is no max-age or expired. If they define a max age, the site will be updated for people who use cookies. Without it, they will not see updates
 
 ## Minification
 
