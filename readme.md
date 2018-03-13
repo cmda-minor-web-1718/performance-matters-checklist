@@ -86,7 +86,8 @@
 
 ### CSS
 
-*   Remove unused CSS files (e.g. woocommerce.css?ver=7.5)
+*   Add some more points here...
+*   Remove unused CSS files
 
 ### HTML
 
