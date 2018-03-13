@@ -46,7 +46,7 @@
 
 ## Caching
 
-*   Add some more points here...
+*   The cache must have a  max age or expires. The reason why is, so that the site will be updated for people who have saved the cookie. They can see the updates if the cookies are renewed. bron: https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en
 
 ## Minification
 
