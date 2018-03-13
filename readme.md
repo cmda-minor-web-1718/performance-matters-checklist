@@ -66,6 +66,8 @@
 
 ### Images
 
+*   Change image extensions(web-p or JPEG XR)
+*   Change image file sizes
 *   Add some more points here...
 *   Compress images
 *   Optimise image sizes
