@@ -50,7 +50,10 @@
 
 ## Minification
 
-*   Add some more points here...
+Minify CSS 
+“https://www.cmd-amsterdam.nl/…es/salient-7.5.02-good/style.css?ver=7.5” needs to be minified.
+Source:
+https://developers.google.com/speed/pagespeed/insights/?hl=nl&url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F
 
 ### Images
 
