@@ -51,7 +51,9 @@
 ## Minification
 
 *   Add some more points here...
-*   Main HTML and CSS file should be minified, HTML has multiple line white-spaces and the CSS file is over 20000 lines long       with white-space between every tag declaration.
+*   Main HTML and CSS file should be minified.
+    HTML has multiple line white-spaces and the CSS file is over 20000 lines long
+    with white-space between every tag declaration
 
 ### Images
 
