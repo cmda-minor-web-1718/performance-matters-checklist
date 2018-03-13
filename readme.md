@@ -88,7 +88,7 @@ Check if you dont have double tags and minify it.
 
 ### Images
 
-*   The images are a bit big for performance.
+*   The images are a bit big for performance.  
 Compress them to get a beter experience.
 
 ![](comp_image.png)
