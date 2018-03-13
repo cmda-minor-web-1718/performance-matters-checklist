@@ -157,6 +157,7 @@
 ### JavaScript
 
 *   Add some more points here...
+*   Concatenate javascript files
 *   Load JavaScript and CSS later so they don’t block rendering
 *   Combine javascript files > less server requests. Also, move script links in HTML head to bottom of document
 *   Add defer and async to all Javascript imports where the Jasavscript is not necesarry to render above-the-fold content
