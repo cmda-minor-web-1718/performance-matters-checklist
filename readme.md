@@ -85,7 +85,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   Images are not being serverd by WebP. This means all images that are being loaded on the website take up to 10.510 seconds (total of 1.8MB). 
 
 ### CSS
 
