@@ -91,6 +91,7 @@
 ### CSS
 
 *   Add some more points here...
+*   Make CSS files smaller
 
 ### HTML
 
