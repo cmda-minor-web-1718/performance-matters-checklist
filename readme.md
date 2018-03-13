@@ -50,7 +50,7 @@
 
 ## Minification
 
-*   Add some more points here...
+*   Minify the JS and CSS files.
 
 ### Images
 
