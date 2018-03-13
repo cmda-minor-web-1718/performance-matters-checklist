@@ -30,7 +30,8 @@
 
 ## Audits
 
-*   Add some more points here...
+*   The optimalisation off the visual progress is terrible. The website does not show any content till every content is loaded. This problem leads up to a huge visaul progress area. 
+![Visual Progress CMD Amstedam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/visual%20progress%20cmd%20amsterdam.png)
 
 ## HTTP optimisation
 
