@@ -61,8 +61,11 @@
 *   Leverage browser caching.
 
 ## Minification
+Minify Javascript
+“https://www.cmd-amsterdam.nl/…alient-7.5.02-good/js/init.js?ver=7.5.02” and  https://“www.cmd-amsterdam.nl/…-7.5.02-good/js/nectar-slider.js?ver=7.5” needs to be minified.
 
-*   Add some more points here...
+Source:
+https://developers.google.com/speed/pagespeed/insights/?hl=nl&url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F
 
 ### Images
 
