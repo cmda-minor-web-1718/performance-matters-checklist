@@ -30,7 +30,7 @@
 
 ## Audits
 
-*   Add some more points here...
+*   Add some more points here... 
 
 ## HTTP optimisation
 
