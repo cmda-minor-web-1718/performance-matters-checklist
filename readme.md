@@ -26,7 +26,7 @@
 ## Miscellaneous
 
 *   Tip: Different profile / user in Chrome without extensions
-*   Add some more points here...
+*   Use the proper `lang`. Is currently `lang='en-US'`.
 
 ## Audits
 
@@ -54,7 +54,13 @@
 
 ### Images
 
-*   Add some more points here...
+*   Use (inline) `svg` when possible.
+
+Example:
+
+![Example for an image that should be an inline svg][svg]
+
+[svg]: http://www.cmd-amsterdam.nl/wp-content/uploads/2013/11/cmd-core-nl.png
 
 ### CSS
 
