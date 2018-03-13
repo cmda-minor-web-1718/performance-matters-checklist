@@ -86,6 +86,7 @@
 
 ### CSS
 
+*   Add some more points here...
 *   Add inline critical CSS
 
 ### HTML
