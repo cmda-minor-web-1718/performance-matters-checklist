@@ -61,6 +61,7 @@
 ## Caching
 
 *   Add some more points here...
+*   Define a max-age
 *   Specify an expiration at least one week in the future for resources
 *   Leverage browser caching.
 
