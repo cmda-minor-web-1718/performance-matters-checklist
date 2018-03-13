@@ -82,6 +82,7 @@
 
 ### Images
 
+*   Add some more points here...
 *   Compress images
 
 ### CSS
