@@ -127,6 +127,9 @@
 ### Images
 
 *   Add some more points here...
+*   Serve images in a proper size.
+    This will improve load time and save cellular data.
+    If you provide images larger than the user needs, you are just wasting bytes.
 *   Serve images as WebP.
     If they are encoded that way they will load much faster.
     WebP image formats have superior compression compared to JPG and JPEG.
