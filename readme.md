@@ -100,6 +100,8 @@
 ### JavaScript
 
 *   Add some more points here...
+*   Make all scripts tags in `<head>` async so they don’t block the rendering of the DOM
+*   Load scripts that are not used immediately, later
 *   Minify the Javascript: You could do this manually by going to [js compress](https://jscompress.com/) but you could use Gulp or any taskworker that can use UglifyJS. Minification removes unnecessary data and unnecessary spaces and misc. To improve the loadspeed and a small decrease in size.
 *   Parse JavaScript using Defer.
 
