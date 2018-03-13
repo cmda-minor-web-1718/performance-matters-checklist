@@ -54,10 +54,8 @@
 
 ### Images
 
-*   Filesize of the images can be optimalized.
-    Some images take over 10 seconds to load.
-    [Source](https://www.cmd-amsterdam.nl/)
-    [Image](https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg)
+*   Add some more points here...
+*   Optimise file-size of images
 
 ### CSS
 
