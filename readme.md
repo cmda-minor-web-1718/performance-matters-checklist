@@ -54,7 +54,19 @@
 
 ### Images
 
-*   Add some more points here...
+*   Images as WebP:
+    Change the images to .webp instad of .jpg (of .png).
+
+    ```
+    <picture>
+      <source type="image/webp" srcset=“l.webp" media="(min-width: 640px)">  <source type="image/webp" srcset="m.webp" media="(min-width: 320px)">
+      <source type="image/webp" srcset="s.webp">
+      <source srcset="l.jpg" media="(min-width: 640px)">  <source srcset="m.jpg" media="(min-width: 320px)">
+      <source srcset="s.jpg">
+      <img alt="Description of the image" src="l.jpg">
+     </picture>
+     ```
+     ![alt text][Schermafbeelding 2018-03-13 om 12.53.49]
 
 ### CSS
 
