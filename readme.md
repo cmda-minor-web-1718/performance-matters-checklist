@@ -46,7 +46,7 @@
 
 ## Caching
 
-*   The cache must have a  max age or expires. The reason why is, so that the site will be updated for people who have saved the cookie. They can see the updates if the cookies are renewed. 
+*   Add some more points here...
 
 ## Minification
 
@@ -82,7 +82,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   The images must be compressed to a smaller size for faster performance rate. I tested this by using the https://www.webpagetest.org website. 
 
 ### CSS
 
