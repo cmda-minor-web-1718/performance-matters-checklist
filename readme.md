@@ -42,7 +42,7 @@
 
 ### HTTP/2
 
-*   Add some more points here...
+*   The site need to download a lot of files. Because it uses http1, it takes a long time te download them all because the downloading doesn't happen parrallel. That's why http2 should work better, because it downloads everything at the same time. The only disadvantage is that the browser support voor http2 is a bit limited. But most of the students of CMD use the newest browsers so in this scenerio it would be ok to use it.
 
 ## Caching
 
@@ -103,3 +103,6 @@
 ## Backend optimisation
 
 *   Add some more points here...
+
+## Bronnen
+1. [Google dev tool](https://developers.google.com/speed/pagespeed/insights/?hl=nl)
