@@ -54,11 +54,32 @@
 
 ### Images
 
-*   Add some more points here...
+*   Images as WebP:
+    Change the images to .webp instad of .jpg (of .png).
 
-### CSS
+    ```
+    <picture>
+      <source type="image/webp" srcset=“l.webp" media="(min-width: 640px)">  <source type="image/webp" srcset="m.webp" media="(min-width: 320px)">
+      <source type="image/webp" srcset="s.webp">
+      <source srcset="l.jpg" media="(min-width: 640px)">  <source srcset="m.jpg" media="(min-width: 320px)">
+      <source srcset="s.jpg">
+      <img alt="Description of the image" src="l.jpg">
+     </picture>
+     ```
 
-*   Add some more points here...
+		 ![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/first.png "Logo Title Text 1")
+
+
+
+### CSS & JS
+
+*   Minify CSS:
+		Minify the CSS and JS files
+
+		![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/css.png "Logo Title Text 1")
+
+		![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/js.png "Logo Title Text 1")
+
 
 ### HTML
 
