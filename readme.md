@@ -83,6 +83,7 @@
 *   Change image extensions(web-p or JPEG XR)
 *   Change image file sizes
 *   Add some more points here...
+*   Optimise file-size of images
 *   Use (inline) `svg` when possible.
 *   Compress images
 *   Optimise image sizes
