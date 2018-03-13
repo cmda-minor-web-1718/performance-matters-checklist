@@ -70,7 +70,8 @@
 
 ### Fonts
 
-*   Delete unused characters inside your font, so the page doesn't have to render characters that will not be used
+*   Add some more points here...
+*   Delete unused characters inside your font, so the page doesn't have to load characters that will not be used
 
 ## Perceived Performance
 
