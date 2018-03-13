@@ -51,7 +51,6 @@
 ## Minification
 
 *   Add some more points here...
-*   Main HTML and CSS file should be minified, HTML has multiple line white-spaces and the CSS file is over 20000 lines long       with white-space between every tag declaration.
 
 ### Images
 
@@ -96,6 +95,7 @@
 ### JavaScript
 
 *   Add some more points here...
+*   Combine javascript files > less server requests. Also, move script links in HTML head to bottom of document
 
 ### Fonts
 
