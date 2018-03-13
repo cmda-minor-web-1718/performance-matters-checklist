@@ -35,7 +35,6 @@
 *   The optimalisation of the visual progress is terrible.
     The website does not show any content till every content is loaded.
     This problem leads up to a huge visaul progress area. 
-    ![Visual Progress CMD Amstedam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/visual%20progress%20cmd%20amsterdam.png)
 
 ## HTTP optimisation
 
@@ -49,7 +48,6 @@
     In the website there are a lot of css and js files being loaded.
     HTTP1 can only request a maximum of request at one time.
     This means this procces will take a lot longer.
-    ![Request CMD Amsterdam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/73aee4dda5a82919ab88d80fb735fb79.png)
 
 ### HTTP/2
 
@@ -58,17 +56,20 @@
     To get support for this you will need to check your version
     of apache/nginx and OpenSSL.
 *   Add some more points here...
+*   Switch to HTTP/2 to allow for more simultaneous requests
 *   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
 
 *   Add some more points here...
+*   Define a max-age
 *   Specify an expiration at least one week in the future for resources
 *   Leverage browser caching.
 
 ## Minification
 
 *   Add some more points here...
+*   Minify the JS and CSS files
 *   Minify CSS, HTML and JavaScript
 *   Main HTML and CSS file should be minified.
     HTML has multiple line white-spaces and the CSS file is over 20000 lines long
@@ -85,6 +86,9 @@
 *   Change image extensions(web-p or JPEG XR)
 *   Change image file sizes
 *   Add some more points here...
+*   Compress images
+*   Add picture sourcesets and sizes
+*   Optimise file-size of images
 *   Use (inline) `svg` when possible.
 *   Compress images
 *   Optimise image sizes
@@ -92,6 +96,7 @@
 ### CSS
 
 *   Add some more points here...
+*   Make CSS files smaller
 
 ### HTML
 
@@ -108,6 +113,9 @@
 ### Fonts
 
 *   Add some more points here...
+*   Delete unused characters inside your font, so the page doesn't have to load characters that will not be used
+*   Make subsets of icon fonts
+*   Add a fallback font
 
 ## Perceived Performance
 
@@ -139,13 +147,13 @@
 *   Images are not being serverd by WebP.
     This means all images that are being loaded on the website take up to 10.510 seconds (total of 1.8MB).
 *   Compress images
-*   Compress images
 
 ### CSS
 
 *   Add some more points here...
 *   Minify CSS and JS:
     Removing all unnecessary characters from source code without changing its functionality.
+*   Add inline critical CSS
 *   Remove unused CSS files
 
 ### HTML
@@ -155,6 +163,7 @@
 ### JavaScript
 
 *   Add some more points here...
+*   Concatenate javascript files
 *   Load JavaScript and CSS later so they don’t block rendering
 *   Combine javascript files > less server requests. Also, move script links in HTML head to bottom of document
 *   Add defer and async to all Javascript imports where the Jasavscript is not necesarry to render above-the-fold content
