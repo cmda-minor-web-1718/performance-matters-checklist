@@ -30,7 +30,7 @@
 
 ## Audits
 
-*   Add some more points here... 
+*   Add some more points here...
 
 ## HTTP optimisation
 
@@ -46,7 +46,7 @@
 
 ## Caching
 
-*   The cache must have a  max age or expires. The reason why is, so that the site will be updated for people who have saved the cookie. They can see the updates if the cookies are renewed. bron: https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en
+*   Add some more points here...
 
 ## Minification
 
@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   In the header there is a background image in the div. This can better be replaced by a <picture> tagg. You have way more options to optimize it for web use this way. I found the information on https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 
 ### CSS
 
