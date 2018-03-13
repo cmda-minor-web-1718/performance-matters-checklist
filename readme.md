@@ -70,7 +70,7 @@ FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.c
 
 ### JavaScript
 
-*   Add some more points here...
+*   Als het mogelijk is, probeer van de woocommerce files af te komen, deze zorgen ervoor dat andere files later worden ingeladen. [bron](https://www.webpagetest.org/result/180313_JX_951816162f30c1c390b06c372530213f/2/details/#waterfall_view_step1)
 
 ### Fonts
 
@@ -98,7 +98,7 @@ FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.c
 
 ### JavaScript
 
-*   Als het mogelijk is, probeer van de woocommerce files af te komen, deze zorgen ervoor dat andere files later worden ingeladen. [bron](https://www.webpagetest.org/result/180313_JX_951816162f30c1c390b06c372530213f/2/details/#waterfall_view_step1)
+*   Add some more points here...
 
 ### Fonts
 
