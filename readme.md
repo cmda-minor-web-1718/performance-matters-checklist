@@ -47,11 +47,17 @@
 ## Caching
 
 *   Add some more points here...
+*   The following cacheable resources have a short freshness lifetime. Specify an expiration at least one week in the future       for the following resources:
+      https://www.cmd-amsterdam.nl/wp-content/themes/salient-7.5.02-good/img/textures/diagonal_line.png
+      https://www.cmd-amsterdam.nl/wp-content/themes/ ... ets/functions/ajax-search/wpss-search-suggest.js
+      https://www.cmd-amsterdam.nl/wp-content/uploads/2015/01/cmd_hva_logo_black-1.png
+      https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg
+      https://www.google-analytics.com/analytics.js
+      https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&subset=latin%2Clatin-ext
 
 ## Minification
 
 *   Add some more points here...
-*   Main HTML and CSS file should be minified, HTML has multiple line white-spaces and the CSS file is over 20000 lines long       with white-space between every tag declaration.
 
 ### Images
 
