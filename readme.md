@@ -80,6 +80,13 @@
 
 *   Add some more points here...
 
+### CDN
+
+Because this website is also focused on international student it's recommended to use a CDN.
+The load-time will decrease for users outside the NL
+
+Source: [CDN-REPORT](http://www.whatsmycdn.com/?uri=https%3A%2F%2Fwww.cmd-amsterdam.nl%2F&location=NA)
+
 ### Images
 
 *   Add some more points here...
