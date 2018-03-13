@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   When you compress the images you can save up to 548.3 kb in size. The reason why we'd do this, is to make the website a lot faster! On slow 3G the main image takes up to 15 seconds to load!
 
 ### CSS
 
