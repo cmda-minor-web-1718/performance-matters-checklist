@@ -67,6 +67,7 @@
 ## Minification
 
 *   Add some more points here...
+*   Minify the JS and CSS files
 *   Minify CSS, HTML and JavaScript
 *   Main HTML and CSS file should be minified.
     HTML has multiple line white-spaces and the CSS file is over 20000 lines long
