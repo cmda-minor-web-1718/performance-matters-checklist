@@ -56,6 +56,7 @@
 ### Images
 
 *   Add some more points here...
+* Compress image: FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg | https://www.webpagetest.org/result/180313_13_40f7149ffa0b99cc20f45077d3730076/1/performance_optimization/
 
 ### CSS
 
