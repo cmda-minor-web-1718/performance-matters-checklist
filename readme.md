@@ -66,7 +66,8 @@
       <img alt="Description of the image" src="l.jpg">
      </picture>
      ```
-     ![Image][https://github.com/s44s/performance-matters-checklist/blob/master/first.png]
+
+		 ![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/first.png "Logo Title Text 1")
 
 ### CSS
 
