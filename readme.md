@@ -42,7 +42,9 @@
 
 ### HTTP/2
 
-*   Add some more points here...
+*  The current site is using http/1.1. If we change this to http/2 we can increase the speed. "HTTP/2 allows the server to "push" content, that is, to respond with data for more queries than the client requested. This allows the server to supply data it knows a web browser will need to render a web page, without waiting for the browser to examine the first response, and without the overhead of an additional request cycle" - [wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
+
+source: You can see it in the header on the network (developer tool) 
 
 ## Caching
 
