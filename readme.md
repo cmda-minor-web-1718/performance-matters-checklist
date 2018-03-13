@@ -31,6 +31,10 @@
 ## Audits
 
 *   Add some more points here...
+*   The optimalisation of the visual progress is terrible.
+    The website does not show any content till every content is loaded.
+    This problem leads up to a huge visaul progress area. 
+    ![Visual Progress CMD Amstedam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/visual%20progress%20cmd%20amsterdam.png)
 
 ## HTTP optimisation
 
@@ -39,14 +43,22 @@
 ### HTTP/1
 
 *   Add some more points here...
+*   All files are being loaded by a HTTP1 request.
+    This is not a big problem unless you are loading a lot of files separately.
+    In the website there are a lot of css and js files being loaded.
+    HTTP1 can only request a maximum of request at one time.
+    This means this procces will take a lot longer.
+    ![Request CMD Amsterdam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/73aee4dda5a82919ab88d80fb735fb79.png)
 
 ### HTTP/2
 
 *   Add some more points here...
+*   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
 
 *   Add some more points here...
+*   Leverage browser caching.
 
 ## Minification
 
@@ -56,6 +68,7 @@
 
 *   Add some more points here...
 *   Compress images
+*   Optimise image sizes
 
 ### CSS
 
@@ -68,6 +81,7 @@
 ### JavaScript
 
 *   Add some more points here...
+*   Parse JavaScript using Defer.
 
 ### Fonts
 
@@ -84,6 +98,8 @@
 ### Images
 
 *   Add some more points here...
+*   Images are not being serverd by WebP.
+    This means all images that are being loaded on the website take up to 10.510 seconds (total of 1.8MB).
 
 ### CSS
 
