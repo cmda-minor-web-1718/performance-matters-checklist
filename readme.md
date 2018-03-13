@@ -64,7 +64,7 @@ The graph shows that the css is heavy to load.
 
 Check if you dont have double tags and minify it.
 ![what could get compressed](mini.png)
-[Source](https://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
+[Blogpost about it.](https://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
 
 ### HTML
 
@@ -92,7 +92,7 @@ Check if you dont have double tags and minify it.
 Compress them to get a beter experience.
 
 ![](comp_image.png)
-[source](https://www.webpagetest.org/result/180313_6X_8bfc7081e7066c68c99d8cd696ee3fe9/1/breakdown/)
+[webpagetest](https://www.webpagetest.org/result/180313_6X_8bfc7081e7066c68c99d8cd696ee3fe9/1/breakdown/)
 
 
 ### CSS
@@ -101,8 +101,9 @@ Compress them to get a beter experience.
 
 ### HTML
 
-*   Add some more points here...
-
+*   It is important to priorityze the content.
+[](html.png)
+source: [Google speed test](https://developers.google.com/speed/)
 ### JavaScript
 
 *   Add some more points here...
