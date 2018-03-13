@@ -26,6 +26,7 @@
 ## Miscellaneous
 
 *   Tip: Different profile / user in Chrome without extensions
+*   Use the proper `lang`. It’s currently `lang=en-US`.
 *   Add some more points here...
 
 ## Audits
@@ -84,6 +85,7 @@
 *   Change image extensions(web-p or JPEG XR)
 *   Change image file sizes
 *   Add some more points here...
+*   Use (inline) `svg` when possible.
 *   Compress images
 *   Optimise image sizes
 
