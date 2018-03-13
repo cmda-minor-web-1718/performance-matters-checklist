@@ -47,6 +47,7 @@
 ## Caching
 
 *   Add some more points here...
+*   Leverage browser caching.
 
 ## Minification
 
