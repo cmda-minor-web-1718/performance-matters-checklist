@@ -82,7 +82,9 @@
 
 ### Images
 
-*   Add some more points here...
+*   Hoofdafbeelding comprimeren / meerdere afbeelding groottes meegeven in CSS / Client hints / Picture tag   
+
+
 
 ### CSS
 
