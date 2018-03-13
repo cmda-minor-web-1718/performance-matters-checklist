@@ -87,7 +87,8 @@
 ### CSS
 
 *   Minifying CSS. 
-Minify CSS to save bytes. You will have fewer lines of CSS to download and run. [bron](https://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
+    Minify CSS to save bytes.
+    You will have fewer lines of CSS to download and run.
 
 ### HTML
 
