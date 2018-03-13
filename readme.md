@@ -82,7 +82,11 @@
 
 ### Images
 
-*   Add some more points here...
+Compress images
+The size of the images are really big, they need to be compressed. This results in a better performance Especially https://www.cmd-amsterdam.nl/…tent/uploads/2014/01/jesse-landscape.jpg is very big and slows down the loading speed. 
+
+Source:
+https://developers.google.com/speed/pagespeed/insights/?hl=nl&url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F
 
 ### CSS
 
