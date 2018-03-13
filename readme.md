@@ -63,7 +63,8 @@
 ## Minification
 
 *   Add some more points here...
-*   Minify CSS 
+*   Minify CSS
+*   Minify Javascript
 
 ### Images
 
