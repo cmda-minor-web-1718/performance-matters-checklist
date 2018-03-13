@@ -50,7 +50,8 @@
 
 ## Minification
 
-*   Minifien van de CSS, HTML en Javascript. Er zijn veel regels code in bijvoorbeeld de prettyPhoto.js die veel compacter kunnen.
+*   Add some more points here...
+*   Minify CSS, HTML and JavaScript
 
 ### Images
 
