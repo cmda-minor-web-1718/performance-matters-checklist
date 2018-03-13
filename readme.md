@@ -84,7 +84,7 @@
 
 ### CSS
 
-Er wordt enorm veel CSS niet gebruikt, dit kan er allemaal uit. Momenteel wordt ongeveer 95% niet gebruikt.
+There are too many unused CSS Selectors. In this particular example 95% is unnecessary.
 ![alt text](http://i.imgur.com/lc1K2xM.jpg "HTTP/1")
 
 ### HTML
