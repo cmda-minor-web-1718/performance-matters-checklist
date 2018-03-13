@@ -127,6 +127,9 @@
 ### Images
 
 *   Add some more points here...
+*   Serve images as WebP.
+    If they are encoded that way they will load much faster.
+    WebP image formats have superior compression compared to JPG and JPEG.
 *   Compress main images
 *   Client hints
 *   Picture tag
