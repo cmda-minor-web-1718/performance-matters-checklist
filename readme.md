@@ -54,11 +54,14 @@
 
 ### Images
 
-*   Add some more points here...
+* Het comprimeren van https://www.cmd-amsterdam.nl/…tent/uploads/2017/12/171212_cmd_0622.jpg kan 602 KB besparen (een besparing van 84%). (Bron 1)
+* Het comprimeren en wijzigen van het formaat van https://www.cmd-amsterdam.nl/…uploads/2015/01/cmd_hva_logo_black-1.png kan 31,5 KB besparen (een besparing van 92%). (Bron 1)
+
 
 ### CSS
 
-*   Add some more points here...
+*  Minify CSS. De grootte van de bestanden kan met 15,5 KB gereduseerd worden
+*  Klein deel van de CSS eerst inladen en als de hele pagina geladen is de rest.
 
 ### HTML
 
@@ -66,7 +69,7 @@
 
 ### JavaScript
 
-*   Add some more points here...
+*   Javascript minifyen. De grootte van de bestanden kan met 43,3 KB gereduseerd worden (een besparing van 29%). (Bron 1)
 
 ### Fonts
 
@@ -103,3 +106,6 @@
 ## Backend optimisation
 
 *   Add some more points here...
+
+## BRONNEN
+1. [Developer Tools Google](https://developers.google.com/)
