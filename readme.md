@@ -66,7 +66,8 @@
 
 ### JavaScript
 
-*   Parce JavaScript using Defer.
+*   Add some more points here...
+*   Parse JavaScript using Defer.
 
 ### Fonts
 
