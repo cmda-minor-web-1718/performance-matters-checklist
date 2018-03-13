@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   Add picture sourcesets and sizes
 
 ### CSS
 
