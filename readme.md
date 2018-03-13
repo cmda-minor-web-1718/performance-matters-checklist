@@ -54,7 +54,15 @@
 
 ### Images
 
-*   Add some more points here...
+####  Optimise images.
+
+Most of the loading time go's into images loading and can be improved by doing:
+* Change image extensions(web-p or JPEG XR)
+* Change image file sizes
+
+Source:
+[Lighthouse Report](www.cmd-amsterdam.nl_2018-03-13_12-52-53.report.html)
+
 
 ### CSS
 
