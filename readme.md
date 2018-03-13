@@ -66,7 +66,7 @@
 
 ### JavaScript
 
-*   Minify the Javascript: You could do this manually by going to [js compress](https://jscompress.com/) but you could use Gulp or any taskworker that can use UglifyJS. Minification removes unnecessary data and unnecessary spaces and misc. To improve the loadspeed and a small decrease in size.
+*   
 
 ### Fonts
 
