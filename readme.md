@@ -56,6 +56,7 @@
     To get support for this you will need to check your version
     of apache/nginx and OpenSSL.
 *   Add some more points here...
+*   Switch to HTTP/2 to allow for more simultaneous requests
 *   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
