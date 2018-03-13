@@ -82,9 +82,10 @@
 
 ### Images
 
+*   Add some more points here...
 *   Serve images in a proper size.
-This will improve load time and save cellular data. If you provide images larger than the user needs, you are just wasting bytes.
-[bron](https://developers.google.com/web/tools/lighthouse/audits/oversized-images)
+    This will improve load time and save cellular data.
+    If you provide images larger than the user needs, you are just wasting bytes.
 
 ### CSS
 
