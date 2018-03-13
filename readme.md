@@ -46,7 +46,17 @@
 
 ## Caching
 
-*   Add some more points here...
+### Improve caching
+
+There a multiple files that don't have caching parameter specified. These files are:
+* https://www.cmd-amsterdam.nl/wp-content/themes/salient-7.5.02-good/img/textures/diagonal_line.png
+* https://www.cmd-amsterdam.nl/wp-content/themes/ ... ets/functions/ajax-search/wpss-search-suggest.js
+* https://www.cmd-amsterdam.nl/wp-content/uploads/2015/01/cmd_hva_logo_black-1.png
+* https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg
+* https://www.google-analytics.com/analytics.js
+* https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&subset=latin%2Clatin-ext
+
+Source: [Pingdom](https://tools.pingdom.com/#!/cCSjX2/www.cmd-amsterdam.nl)
 
 ## Minification
 
