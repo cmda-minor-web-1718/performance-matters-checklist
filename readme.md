@@ -54,7 +54,7 @@
 
 ### Images
 
-*   In the header there is a background image in the div. This can better be replaced by a <picture> tagg. You have way more options to optimize it for web use this way. I found the information on https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+*   In the header there is a background image in the div. This can better be replaced by a <picture> tagg. You have way more options to optimize it for web use this way. I found the information on https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture 
 
 ### CSS
 
