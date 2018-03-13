@@ -39,7 +39,8 @@
 
 ### HTTP/1
 
-*   Add some more points here...
+*   All files are being loaded by a HTTP1 request. This is not a big problem unless you are loading a lot of files separately. In the website there are a lot of css and js files being loaded. HTTP1 can only request a maximum of request at one time. This means this procces will take a lot longer. 
+![Request CMD Amsterdam](https://raw.githubusercontent.com/dipsaus9/performance-matters-checklist/master/73aee4dda5a82919ab88d80fb735fb79.png.png)
 
 ### HTTP/2
 
