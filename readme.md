@@ -66,12 +66,11 @@
 
 ### JavaScript
 
-*   
+*   Add some more points here...
 
 ### Fonts
 
-*   
-
+*   Add some more points here...
 
 ## Perceived Performance
 
