@@ -66,7 +66,7 @@
       <img alt="Description of the image" src="l.jpg">
      </picture>
      ```
-     ![alt text][Schermafbeelding 2018-03-13 om 12.53.49]
+     ![Image][Schermafbeelding 2018-03-13 om 12.53.49.png]
 
 ### CSS
 
