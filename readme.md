@@ -94,7 +94,7 @@
 
 ### JavaScript
 
-*   Add some more points here...
+*   Add defer and async to all Javascript imports where the Jasavscript is not necesarry to render above-the-fold content
 
 ### Fonts
 
