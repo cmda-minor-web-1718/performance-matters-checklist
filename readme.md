@@ -54,13 +54,12 @@
 
 ### Images
 
-* Het comprimeren van de afbeeldingen kan in totaal 633.5 KB besparen. (Bron 1)
+*   Add some more points here...
 
 
 ### CSS
 
-*  Minify CSS. De grootte van de bestanden kan met 15,5 KB gereduseerd worden (Bron 1)
-*  Klein deel van de CSS eerst inladen en als de hele pagina geladen is de rest. (Presentatie de Voorhoede)
+*   Add some more points here...
 
 ### HTML
 
@@ -68,7 +67,8 @@
 
 ### JavaScript
 
-*   Javascript minifyen. De grootte van de bestanden kan met 43,3 KB gereduseerd worden. (Bron 1)
+*  Make all scripts tags in the head tag async so it doesn't block the rendering of the DOM <script async src="my.js"> (Source 1)
+*  Load scripts that are not used immediately later. Like the scripts for commerce. (Source 1)
 
 ### Fonts
 
