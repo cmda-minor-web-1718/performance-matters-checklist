@@ -73,6 +73,10 @@
 
 ### Images
 
+*   To use inline images for the hero image instead of a background image.
+    This way you can add more options such as file type (for `.jpg`, `.png`
+    or `.webp`) or file size (for the image width or image density) when using
+    something like [`<picture>`][picture] or the `srcset` on the `<img>` tag.
 *   Change image extensions(web-p or JPEG XR)
 *   Change image file sizes
 *   Add some more points here...
@@ -149,3 +153,5 @@
 
 *   Add some more points here...
 *   There are multiple things being loaded and not used. Alot of the Woocommerce scripts are being loaded and it takes priority for some reason. But it isn't used. [Google page speeds](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2F) the examples are a cart.js alot of css etc.  
+
+[picture]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
