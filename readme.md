@@ -38,15 +38,13 @@
 
 ### HTTP/1
 
-* Bundle & Minify JS
-* Bundle & Minify CSS
+
 
 ### HTTP/2
 
 
 ## Caching
 
-* Cache static files and/or use a CDN (https://www.webpagetest.org/result/180313_13_40f7149ffa0b99cc20f45077d3730076/1/performance_optimization/)
 
 ## Minification
 
@@ -55,7 +53,6 @@
 
 ### CSS
 
-* Bundle & Minify CSS
 
 ### HTML
 
@@ -63,7 +60,6 @@
 
 ### JavaScript
 
-* Bundle & Minify JS
 
 ### Fonts
 
@@ -84,7 +80,6 @@
 
 ### CSS
 
-* Add above-the-fold critical CSS
 
 ### HTML
 
