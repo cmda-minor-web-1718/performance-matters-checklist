@@ -74,6 +74,7 @@
 
 ## Perceived Performance
 
+*   Add some more points here...
 *   Use a placeholder for the background image(blurred/loading like) to indicate that here is and should be an image at that position
 
 ## Performance
