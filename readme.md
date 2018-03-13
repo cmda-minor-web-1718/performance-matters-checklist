@@ -54,12 +54,6 @@
 
 ### Images
 
-De afbeeldingen zijn veels te groot, met een goede compressie valt hier veel ruimte te besparen. Als ik uitga van een 2G download snelheid van 280 kb/s, en de potentiele savings 548kb zijn, kan je zeggen dat je met een compressie 2 seconden kan besparen.
-
-*   724.4 KB total in images, target size = 175.8 KB - potential savings = 548.5 KB
-
-FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.cmd-amsterdam.nl/wp-content/uploads/2017/12/171212_cmd_0622.jpg
-
 ### CSS
 
 *   Add some more points here...
@@ -90,7 +84,8 @@ FAILED - (689.6 KB, compressed = 141.0 KB - savings of 548.5 KB) - https://www.c
 
 ### CSS
 
-*   Add some more points here...
+Er wordt enorm veel CSS niet gebruikt, dit kan er allemaal uit. Momenteel wordt ongeveer 95% niet gebruikt.
+![alt text](http://i.imgur.com/lc1K2xM.jpg "HTTP/1")
 
 ### HTML
 
