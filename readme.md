@@ -91,7 +91,8 @@
 
 ### Fonts
 
-*   Add some more points here...
+*   Subsetting and formats:
+    Use only .woff and .woffs as format for the fontface. And subset the font on the website: https://www.fontsquirrel.com/tools/webfont-generator. 
 
 ## Perceived Performance
 
