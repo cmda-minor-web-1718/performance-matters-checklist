@@ -54,7 +54,7 @@
 
 ### Images
 
-De afbeeldingen zijn veels te groot, met een goede compressie valt hier veel ruimte te besparen. Als ik uitga van een 2G download snelheid van 280 kb/s, en de potentiele savings 548kb zijn, kan je zeggen dat je met een compressie 2 seconden kan besparen.
+The image sizes are way too large, a good image compressor can save a few seconds here.
 
 *   724.4 KB total in images, target size = 175.8 KB - potential savings = 548.5 KB
 
