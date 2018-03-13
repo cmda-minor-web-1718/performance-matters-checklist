@@ -60,8 +60,10 @@
 
 *   The css could have some adjustments.
 The graph shows that the css is heavy to load.
+![graph with the data](graph.png)
 
-Check if you dont have double tags.
+Check if you dont have double tags and minify it.
+![what could get compressed](mini.png)
 
 ### HTML
 
