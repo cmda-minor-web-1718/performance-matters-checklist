@@ -82,7 +82,10 @@
 
 ### Images
 
-*   Serve images as WebP. If they are encoded that way they will load much faster. WebP image formats have superior compression compared to JPG and JPEG. [bron](https://developers.google.com/web/tools/lighthouse/audits/webp)
+*   Add some more points here...
+*   Serve images as WebP.
+    If they are encoded that way they will load much faster.
+    WebP image formats have superior compression compared to JPG and JPEG.
 
 ### CSS
 
