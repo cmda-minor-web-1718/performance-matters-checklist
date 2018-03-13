@@ -97,6 +97,7 @@
 ### JavaScript
 
 *   Add some more points here...
+* Remove complete slider functionality, since it's just an image
 
 ### Fonts
 
