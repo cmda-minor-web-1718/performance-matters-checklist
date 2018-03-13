@@ -42,7 +42,8 @@
 
 ### HTTP/2
 
-*   De website/server maakt gebruik van HTTP1 (te zien in de console -> network -> protocol). Hierdoor worden er maar een aantal files als eerst tegelijk geladen en de eerst volgende file pas wanneer de eerste klaar is met laden, enzovoorts. Omdat er best wel veel files voor deze website ingeladen moeten worden is het handiger als er gebruik gemaakt wordt van HTTP2.
+*   Add some more points here...
+*   Switch to HTTP/2 to allow for more simultaneous requests
 
 ## Caching
 
