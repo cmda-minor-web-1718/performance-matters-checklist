@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   The images must be compressed to a smaller size. This will boost the performance rate. I found the information on https://www.html5rocks.com/en/tutorials/speed/img-compression/
 
 ### CSS
 
