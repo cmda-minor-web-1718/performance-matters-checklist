@@ -38,27 +38,20 @@
 
 ### HTTP/1
 
-*   Add some more points here...
 
 ### HTTP/2
 
-*   Add some more points here...
 
 ## Caching
 
-*   Add some more points here...
 
 ## Minification
 
-*   Add some more points here...
-
 ### Images
 
-*   Add some more points here...
 
 ### CSS
 
-*   Add some more points here...
 
 ### HTML
 
@@ -66,7 +59,6 @@
 
 ### JavaScript
 
-*   Add some more points here...
 
 ### Fonts
 
@@ -82,11 +74,9 @@
 
 ### Images
 
-*   Add some more points here...
 
 ### CSS
 
-*   Add some more points here...
 
 ### HTML
 
@@ -94,7 +84,7 @@
 
 ### JavaScript
 
-*   Add some more points here...
+* Remove complete slider functionality, since it's just an image
 
 ### Fonts
 
