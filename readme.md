@@ -53,6 +53,7 @@
 ### HTTP/2
 
 *   Add some more points here...
+*   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
 
