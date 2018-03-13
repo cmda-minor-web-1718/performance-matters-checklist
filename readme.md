@@ -107,5 +107,4 @@
 
 *   Add some more points here...
 
-
 [picture]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
