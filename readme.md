@@ -71,9 +71,15 @@
 
 
 
-### CSS
+### CSS & JS
 
-*   Add some more points here...
+*   Minify CSS:
+		Minify the CSS and JS files
+
+		![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/css.png "Logo Title Text 1")
+
+		![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/js.png "Logo Title Text 1")
+
 
 ### HTML
 
