@@ -51,6 +51,7 @@
 
 ### Images
 
+* Make images better usable by the browser with using srcset
 *   Compress images
 
 * Minify all css html and javascript so the page will only load the necessary things.
