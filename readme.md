@@ -90,7 +90,7 @@
     This will improve load time and save cellular data
     If you provide images larger than the user needs, you are just wasting bytes
 *   Use client hints
-*   SVG's are smaller but they do not render always faster than other formats. Especialy when they are very complex. Render speed is also included with the load time of content.
+*   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
 
 ### CSS
 
