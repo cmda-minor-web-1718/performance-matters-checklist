@@ -61,7 +61,7 @@
 
 ### HTML
 
-*   Add some more points here...
+*   Minifying HTML could reduce the file size.
 
 ### JavaScript
 
