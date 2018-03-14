@@ -26,6 +26,7 @@
 ## Miscellaneous
 
 *   Tip: Different profile / user in Chrome without extensions
+*   Try to avoid redirects, these can impose high latency overhead
 *   Add some more points here...
 
 ## Audits
