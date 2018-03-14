@@ -51,6 +51,7 @@
 
 ### Images
 
+* Make images better usable by the browser with using srcset
 *   Compress images
 
 ### CSS
