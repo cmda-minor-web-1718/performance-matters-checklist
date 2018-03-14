@@ -26,6 +26,7 @@
 ## Miscellaneous
 
 *   Tip: Different profile / user in Chrome without extensions
+*   The website contains files of woocommerce, while there is no webshop. You can delete those files to reduce load time.
 
 ## Audits
 
