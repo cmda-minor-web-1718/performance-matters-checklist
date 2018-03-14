@@ -53,6 +53,8 @@
 
 *   Compress images
 
+* Minify all css html and javascript so the page will only load the necessary things.
+
 ### CSS
 
 *   Minify CSS
