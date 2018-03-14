@@ -94,7 +94,7 @@
 
 ### JavaScript
  
-*   Add small, single purpose javascript scripts inline
+*   Add small, single purpose javascript scripts inline 
 
 ### Fonts
 
