@@ -61,7 +61,7 @@
 
 ### HTML
 
-*   You could minify the HTML (also the CSS and the JS) to save up some kb's
+*   Add some more points here...
 
 ### JavaScript
 
