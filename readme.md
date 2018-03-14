@@ -53,7 +53,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   Some images are pretty large. You could compress the images to reduce file sizes.
 
 ### CSS
 
