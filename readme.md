@@ -41,6 +41,7 @@
 
 ### HTTP/2
 
+* Use http2 for faster requests
 *   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
