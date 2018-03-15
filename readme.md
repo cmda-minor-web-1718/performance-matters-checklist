@@ -58,7 +58,14 @@
 
 ### CSS
 
-*   Add some more points here...
+*   Stop external CSS from messing with first meaningfull paint.
+Right now the site is depending on CSS in order to be able to load the first view.
+If you add critical CSS you can overcome this problem.
+
+Critical CSS means you're adding only the nessecary CSS for the first view into your HTML (since HTML loads first).
+This way the viewport is rendered like it's supossed to, but on the background the other CSS styles are being loaded.
+
+source: https://developers.google.com/web/tools/lighthouse/audits/blocking-resources
 
 ### HTML
 
