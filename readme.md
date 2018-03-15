@@ -54,31 +54,12 @@
 
 ### Images
 
-*   Images as WebP:
-    Change the images to .webp instad of .jpg (of .png).
-
-    ```
-    <picture>
-      <source type="image/webp" srcset=“l.webp" media="(min-width: 640px)">  <source type="image/webp" srcset="m.webp" media="(min-width: 320px)">
-      <source type="image/webp" srcset="s.webp">
-      <source srcset="l.jpg" media="(min-width: 640px)">  <source srcset="m.jpg" media="(min-width: 320px)">
-      <source srcset="s.jpg">
-      <img alt="Description of the image" src="l.jpg">
-     </picture>
-     ```
-
-		 ![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/first.png "Logo Title Text 1")
-
+*   Add some more points here...
 
 
 ### CSS & JS
 
-*   Minify CSS:
-		Minify the CSS and JS files
-
-		![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/css.png "Logo Title Text 1")
-
-		![alt text](https://github.com/s44s/performance-matters-checklist/blob/master/js.png "Logo Title Text 1")
+* Speed up your application by reducing render-blocking stylesheets. Checkout this article for more information: https://github.com/filamentgroup/loadCSS
 
 
 ### HTML
