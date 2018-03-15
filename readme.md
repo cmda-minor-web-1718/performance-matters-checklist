@@ -98,7 +98,7 @@
 
 ### HTML
 
-* Use a minimal amount of classes
+*   Use a minimal amount of classes
 
 ### JavaScript
 
