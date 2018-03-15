@@ -56,6 +56,12 @@
 ### CSS
 
 *   Minify CSS
+*   Concat css files that are below 100kb
+*   [Determine above the fold css](https://css-tricks.com/authoring-critical-fold-css/)
+*   [Get rid of unused selectors](https://unused-css.com/detect-unused-css?url=https%3A%2F%2Fwww.cmd-amsterdam.nl)
+*   Defer non critical css
+
+
 
 ### HTML
 
