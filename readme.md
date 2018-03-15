@@ -94,7 +94,11 @@
 
 ### JavaScript
 
-*   Add some more points here...
+*   Right now jQuery is required for use with the site, the library has a lot of functions
+that don't need to be included.
+
+solution: Minify JS (https://jscompress.com/) (https://www.minifier.org/)
+solution: write your own vanilla javascript.
 
 ### Fonts
 
