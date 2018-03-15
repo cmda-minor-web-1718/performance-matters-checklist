@@ -95,6 +95,7 @@
 
 *   Add inline critical CSS
 *   Remove unused CSS files
+*   Remove `overflow: hidden;` from animating elements and their parent container
 
 ### HTML
 
