@@ -82,7 +82,9 @@
 
 ### Images
 
-*   Add some more points here...
+*   Convert your images to jpeg xr to compress your images with minium quality loss.
+JPEG to JPEG XR (https://i.onthe.io/jxr)
+JPEG to JPEG (https://i.onthe.io/google_speed)
 
 ### CSS
 
