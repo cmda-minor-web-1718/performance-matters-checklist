@@ -95,6 +95,7 @@
 
 *   Add inline critical CSS
 *   Remove unused CSS files
+*   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ### HTML
 
