@@ -98,6 +98,8 @@
 
 ### HTML
 
+* Use a minimal amount of classes
+
 ### JavaScript
 
 *   Concatenate JavaScript files
