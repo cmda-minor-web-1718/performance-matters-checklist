@@ -103,20 +103,17 @@
 *   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ### HTML
-*   Add some more points here...
 
 *   Remove inline styles
 *   Use a minimal amount of classes
 
 ### JavaScript
 
-*   Make all scripts tags in the head tag async so it doesn't block the rendering of the DOM <script async src="my.js"> (Source 1)
 *   Load scripts that are not used immediately later. Like the scripts for commerce. (Source 1)
 *   Concatenate JavaScript files
 *   Load JavaScript and CSS later so they don’t block rendering
-*   Move script links in `<head>` to bottom of document
-*   Add `defer` and `async` to all `<script>`s if they are not necessary to
-    render above-the-fold content
+*   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
+    not necessary to render above-the-fold content
 *   Remove jQuery
 
 ### Fonts
