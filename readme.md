@@ -51,7 +51,8 @@
 
 ### Images
 
-*   Compress images
+*   Compress images (such as with [PageSpeed Image Optimizer](https://i.onthe.io/google_speed))
+*   Images with little detail and small colour pallet, are smaller with png format instead of jpg. If possible, use svg.
 
 ### CSS
 
@@ -64,8 +65,9 @@
 ### JavaScript
 
 *   Minify the JavaScript: either manually through
-    [`jscompress`](https://jscompress.com/) or with something UglifyJS,
-    potentially through Gulp
+    [`jscompress`](https://jscompress.com/),
+    [`minifier.org`](https://www.minifier.org/), or
+    with something UglifyJS, potentially through Gulp
 
 ### Fonts
 
@@ -81,7 +83,7 @@
 
 ### Images
 
-*   Use newer image types (`.webp` or `.jxr`)
+*   Use newer image types (`.webp`; `.jxr` [jpg -> jxr](https://i.onthe.io/jxr))
 *   Use inline images for the hero image instead of a background image
 *   Add `srcset`s and `sizes`
 *   Use [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)s
@@ -90,30 +92,38 @@
     This will improve load time and save cellular data
     If you provide images larger than the user needs, you are just wasting bytes
 *   Use client hints
+*   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
 
 ### CSS
 
-*   Add inline critical CSS
+*   Add inline critical CSS (see [Authoring Critical Above-the-Fold CSS](https://css-tricks.com/authoring-critical-fold-css/))
 *   Remove unused CSS files
+*   Remove unused selectors (see [unused-css](https://unused-css.com))
+*   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
+*   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ### HTML
 *   Add some more points here...
 
- ### JavaScript
- 
-*  Make all scripts tags in the head tag async so it doesn't block the rendering of the DOM <script async src="my.js"> (Source 1)
-*  Load scripts that are not used immediately later. Like the scripts for commerce. (Source 1)
+*   Remove inline styles
+*   Use a minimal amount of classes
+
+### JavaScript
+
+*   Make all scripts tags in the head tag async so it doesn't block the rendering of the DOM <script async src="my.js"> (Source 1)
+*   Load scripts that are not used immediately later. Like the scripts for commerce. (Source 1)
 *   Concatenate JavaScript files
 *   Load JavaScript and CSS later so they don’t block rendering
 *   Move script links in `<head>` to bottom of document
 *   Add `defer` and `async` to all `<script>`s if they are not necessary to
     render above-the-fold content
+*   Remove jQuery
 
 ### Fonts
 
 *   Use something like `font-display: swap`
 
 ## Backend optimisation
+
 *   If you’re using templates (such as in wordpress), make sure they don’t
     include things you aren’t using
-
