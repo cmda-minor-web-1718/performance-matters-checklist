@@ -60,10 +60,6 @@
 ### HTML
 
 *   Minify HTML
-*   Remove inline styling
-*   Use SVG for logo's and icons instead of images to reduce extra payloads
-*   Defer loading of large css scripts
-*   Defer loading of JS scripts in the footer 
 
 ### JavaScript
 
@@ -101,6 +97,8 @@
 *   Remove unused CSS files
 
 ### HTML
+
+*   Remove inline styles
 
 ### JavaScript
 
