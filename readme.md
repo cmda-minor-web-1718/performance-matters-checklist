@@ -102,6 +102,8 @@
 
 ### HTML
 
+*   Remove inline styles
+
 ### JavaScript
 
 *   Concatenate JavaScript files
