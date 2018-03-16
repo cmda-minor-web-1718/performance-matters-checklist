@@ -51,7 +51,7 @@
 
 ### Images
 
-*   Compress images
+*   Compress images (such as with [PageSpeed Image Optimizer](https://i.onthe.io/google_speed))
 *   Images with little detail and small colour pallet, are smaller with png format instead of jpg. If possible, use svg.
 
 ### CSS
@@ -83,7 +83,7 @@
 
 ### Images
 
-*   Use newer image types (`.webp` or `.jxr`)
+*   Use newer image types (`.webp`; `.jxr` [jpg -> jxr](https://i.onthe.io/jxr))
 *   Use inline images for the hero image instead of a background image
 *   Add `srcset`s and `sizes`
 *   Use [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)s
