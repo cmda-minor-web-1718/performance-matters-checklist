@@ -109,7 +109,6 @@
 
 ### JavaScript
 
-*   Load scripts that are not used immediately later. Like the scripts for commerce. (Source 1)
 *   Concatenate JavaScript files
 *   Load JavaScript and CSS later so they don’t block rendering
 *   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
