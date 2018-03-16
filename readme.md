@@ -64,8 +64,6 @@
 
 ### JavaScript
 
-*   Add some more points here...
-*   Minify JS (https://jscompress.com/) (https://www.minifier.org/)
 *   Minify the JavaScript: either manually through
     [`jscompress`](https://jscompress.com/),
     [`minifier.org`](https://www.minifier.org/), or
