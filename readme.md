@@ -52,6 +52,7 @@
 ### Images
 
 *   Compress images
+*   Images with little detail and small colour pallet, are smaller with png format instead of jpg. If possible, use svg.
 
 ### CSS
 
@@ -90,13 +91,14 @@
     This will improve load time and save cellular data
     If you provide images larger than the user needs, you are just wasting bytes
 *   Use client hints
+*   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
 
 ### CSS
 
 *   Add inline critical CSS (see [Authoring Critical Above-the-Fold CSS](https://css-tricks.com/authoring-critical-fold-css/))
 *   Remove unused CSS files
 *   Remove unused selectors (see [unused-css](https://unused-css.com))
-*   Defer non critical css
+*   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
 
 ### HTML
 
