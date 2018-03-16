@@ -26,82 +26,94 @@
 ## Miscellaneous
 
 *   Tip: Different profile / user in Chrome without extensions
-*   Add some more points here...
+*   Use the proper `lang`
+*   Use a CDN
 
 ## Audits
 
-*   Add some more points here...
+*   The optimisation of the visual progress is terrible
+    The website does not show any content till every content is loaded
+    This problem leads up to a huge visual progress area
 
 ## HTTP optimisation
 
-*   Add some more points here...
-
 ### HTTP/1
-
-*   Add some more points here...
 
 ### HTTP/2
 
-*   Add some more points here...
+*   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
 
-*   Add some more points here...
+*   Specify an expiration at least one week in the future for resources
 
 ## Minification
 
-*   Add some more points here...
-
 ### Images
 
-*   Add some more points here...
-
-
-### CSS & JS
-
-* Speed up your application by reducing render-blocking stylesheets. Checkout this article for more information: https://github.com/filamentgroup/loadCSS
-
-
-### HTML
-
-*   Add some more points here...
-
-### JavaScript
-
-*   Add some more points here...
-
-### Fonts
-
-*   Add some more points here...
-
-## Perceived Performance
-
-*   Add some more points here...
-
-## Performance
-
-*   Add some more points here...
-
-### Images
-
-*   Add some more points here...
+*   Compress images
+*   Images with little detail and small colour pallet, are smaller with png format instead of jpg. If possible, use svg.
 
 ### CSS
 
-*   Add some more points here...
+*   Minify CSS
 
 ### HTML
 
-*   Add some more points here...
+*   Minify HTML
 
 ### JavaScript
 
-*   Add some more points here...
+*   Minify the JavaScript: either manually through
+    [`jscompress`](https://jscompress.com/) or with something UglifyJS,
+    potentially through Gulp
 
 ### Fonts
 
-*   Add some more points here...
+*   Add a fallback font
+*   Use font subsetting
+
+## Perceived Performance
+
+*   Use a placeholder for background images (blurred/loading like) to
+    indicate that here is and should be an image at that position
+
+## Performance
+
+### Images
+
+*   Use newer image types (`.webp` or `.jxr`)
+*   Use inline images for the hero image instead of a background image
+*   Add `srcset`s and `sizes`
+*   Use [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)s
+*   Use (inline) `svg` when possible
+*   Serve images in a proper size
+    This will improve load time and save cellular data
+    If you provide images larger than the user needs, you are just wasting bytes
+*   Use client hints
+*   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
+
+### CSS
+
+*   Add inline critical CSS
+*   Remove unused CSS files
+*   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
+
+### HTML
+
+### JavaScript
+
+*   Concatenate JavaScript files
+*   Load JavaScript and CSS later so they don’t block rendering
+*   Move script links in `<head>` to bottom of document
+*   Add `defer` and `async` to all `<script>`s if they are not necessary to
+    render above-the-fold content
+
+### Fonts
+
+*   Use something like `font-display: swap`
 
 ## Backend optimisation
 
-*   Add some more points here...
+*   If you’re using templates (such as in wordpress), make sure they don’t
+    include things you aren’t using
