@@ -123,6 +123,7 @@
 *   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
     not necessary to render above-the-fold content
 *   Remove jQuery
+*   Add small, single purpose scripts inline 
 
 ### Fonts
 
