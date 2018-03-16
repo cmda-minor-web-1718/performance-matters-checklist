@@ -40,6 +40,9 @@
 
 ### HTTP/1
 
+*   Don’t [include many (small) files](http://i.imgur.com/HkoOZYp.jpg):
+    HTTP/1 can only deal with 6-8 files at a time
+
 ### HTTP/2
 
 *   [Enable HTTP2](https://tools.keycdn.com/http2-test)
