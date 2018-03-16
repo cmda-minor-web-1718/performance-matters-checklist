@@ -95,8 +95,9 @@
 
 ### CSS
 
-*   Add inline critical CSS
+*   Add inline critical CSS (see [Authoring Critical Above-the-Fold CSS](https://css-tricks.com/authoring-critical-fold-css/))
 *   Remove unused CSS files
+*   Remove unused selectors (see [unused-css](https://unused-css.com))
 *   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
 
 ### HTML
