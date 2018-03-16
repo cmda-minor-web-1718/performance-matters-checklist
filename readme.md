@@ -100,6 +100,7 @@
 *   Remove unused CSS files
 *   Remove unused selectors (see [unused-css](https://unused-css.com))
 *   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
+*   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ### HTML
 
