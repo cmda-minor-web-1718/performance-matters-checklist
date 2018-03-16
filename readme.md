@@ -28,6 +28,7 @@
 *   Tip: Different profile / user in Chrome without extensions
 *   Use the proper `lang`
 *   Use a CDN
+*   Try to avoid redirects, these can impose high latency overhead
 
 ## Audits
 
