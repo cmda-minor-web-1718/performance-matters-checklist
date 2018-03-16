@@ -97,6 +97,7 @@
 
 *   Add inline critical CSS
 *   Remove unused CSS files
+*   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
 
 ### HTML
 
