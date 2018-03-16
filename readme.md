@@ -107,7 +107,7 @@
 *   Add inline critical CSS (see [Authoring Critical Above-the-Fold CSS](https://css-tricks.com/authoring-critical-fold-css/))
 *   Remove unused CSS files
 *   [Remove unused selectors](http://i.imgur.com/lc1K2xM.jpg) (see [unused-css](https://unused-css.com))
-*   Reduce render-blocking stylesheets (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
+*   Reduce render-blocking stylesheets if it isn’t critical (such as with [`loadCSS`](https://github.com/filamentgroup/loadCSS))
 *   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ### HTML
