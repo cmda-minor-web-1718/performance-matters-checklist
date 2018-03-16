@@ -65,8 +65,9 @@
 ### JavaScript
 
 *   Minify the JavaScript: either manually through
-    [`jscompress`](https://jscompress.com/) or with something UglifyJS,
-    potentially through Gulp
+    [`jscompress`](https://jscompress.com/),
+    [`minifier.org`](https://www.minifier.org/), or
+    with something UglifyJS, potentially through Gulp
 
 ### Fonts
 
@@ -111,6 +112,7 @@
 *   Move script links in `<head>` to bottom of document
 *   Add `defer` and `async` to all `<script>`s if they are not necessary to
     render above-the-fold content
+*   Remove jQuery
 
 ### Fonts
 
