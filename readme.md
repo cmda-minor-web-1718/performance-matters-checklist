@@ -40,7 +40,7 @@
 ### HTTP/1
 
 ### HTTP/2
-
+*   The site need to download a lot of files. Because it uses http1, it takes a long time te download them all because the downloading doesn't happen parrallel. That's why http2 should work better, because it downloads everything at the same time. The only disadvantage is that the browser support voor http2 is a bit limited. But most of the students of CMD use the newest browsers so in this scenerio it would be ok to use it.
 *   [Enable HTTP2](https://tools.keycdn.com/http2-test)
 
 ## Caching
@@ -120,6 +120,9 @@
 *   Use something like `font-display: swap`
 
 ## Backend optimisation
-
 *   If you’re using templates (such as in wordpress), make sure they don’t
     include things you aren’t using
+
+## Bronnen
+1. [Google dev tool](https://developers.google.com/speed/pagespeed/insights/?hl=nl)
+
