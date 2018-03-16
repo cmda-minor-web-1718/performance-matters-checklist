@@ -111,9 +111,8 @@
 
 *   Concatenate JavaScript files
 *   Load JavaScript and CSS later so they don’t block rendering
-*   Move script links in `<head>` to bottom of document
-*   Add `defer` and `async` to all `<script>`s if they are not necessary to
-    render above-the-fold content
+*   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
+    not necessary to render above-the-fold content
 *   Remove jQuery
 
 ### Fonts
