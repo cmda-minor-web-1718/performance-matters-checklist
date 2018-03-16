@@ -53,7 +53,7 @@
 
 ## Caching
 
-*   Make sure that all not html files have a caching parameter specified [more info](https://varvy.com/pagespeed/cache-control.html)
+*   Make sure that all non-HTML files have a caching parameter specified [more info](https://varvy.com/pagespeed/cache-control.html)
 *   Specify an expiration at least one week in the future for resources
 
 ## Minification
