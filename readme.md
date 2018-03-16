@@ -59,7 +59,8 @@
 
 ### Images
 
-*   Compress images (such as with [PageSpeed Image Optimizer](https://i.onthe.io/google_speed))
+*   Compress images (such as with [PageSpeed Image Optimizer](https://i.onthe.io/google_speed)
+    or the techniques [described by Google](https://developers.google.com/speed/docs/insights/OptimizeImages))
 *   Images with little detail and small colour pallet, are smaller with png format instead of jpg. If possible, use svg.
 
 ### CSS
