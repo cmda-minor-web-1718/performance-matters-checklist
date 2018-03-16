@@ -46,6 +46,10 @@
 ### HTTP/2
 
 *   [Enable HTTP2](https://tools.keycdn.com/http2-test)
+    [HTTP/2](https://http2.github.io/) is an new protocol that is introduced to increase
+    the performance, specifically, end-user perceived latency, network and server resource
+    usage. One major advantage is to allow the use of a single connection from browsers to
+    a Web site.
 
 ## Caching
 
