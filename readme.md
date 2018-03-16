@@ -105,6 +105,7 @@
 ### HTML
 
 *   Remove inline styles
+*   Use a minimal amount of classes
 
 ### JavaScript
 
