@@ -128,14 +128,16 @@
 
 *   Use something like `font-display: swap`
 
+### Animations
+
+*   Remove `overflow: hidden;` from animating elements and their parent container as
+    `overflow: hidden` makes all children trigger Layout
+*   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+*   Use `transform`, `clip` and `opacity` for high performing animations [CSS Triggers](https://csstriggers.com/)
+*   In JavaScript use `requestAnimationFrame` instead of `setInterval` for higher performance ([MDN rAF](https://developer.mozilla.org/nl/docs/Web/API/Window/requestAnimationFrame))
+*   Use `will-change` wisely ([MDN will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change))
+
 ## Backend optimisation
 
 *   If you’re using templates (such as in wordpress), make sure they don’t
     include things you aren’t using
-
-## Animation performance
-*   Remove `overflow: hidden;` from animating elements and their parent container as `overflow: hidden` makes all children trigger Layout
-*   Look out for [Paint and Layout triggering effects](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-*   Use `transform`, `clip` and `opacity` for high performing animations [CSS Triggers](https://csstriggers.com/)
-*   In JavaScript use `requestAnimationFrame` instead of `setInterval` for higher performance [MDN rAF](https://developer.mozilla.org/nl/docs/Web/API/Window/requestAnimationFrame)
-*   Use `will-change` wisely [MDN will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
