@@ -89,6 +89,10 @@
 *   Use a placeholder for background images (blurred/loading like) to
     indicate that here is and should be an image at that position
 
+*   [Articles](https://www.cmd-amsterdam.nl/studentenwerk/) Could be lazyloaded to reduce loadtime at initial load
+*   [Placeholder content](https://thepathforward.io/web-performance-how-to-affect-perceived-performance/)
+
+
 ## Performance
 
 ### Images
