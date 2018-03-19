@@ -49,6 +49,11 @@
 
 ## Minification
 
+* Some usefull minify tools. 
+[`Manual minifier`](https://www.minifier.org/)
+[`Automated CSS minifier`](https://github.com/ben-eb/cssnano)
+[`Automated JS minifier`](https://github.com/mishoo/UglifyJS2)
+
 ### Images
 
 * Make images better usable by the browser with using srcset
