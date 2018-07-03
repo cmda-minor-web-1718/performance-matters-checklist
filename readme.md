@@ -60,6 +60,8 @@
 
 ### Images
 
+*   Compress images with tools like [TinyPNG](https://tinypng.com/)
+
 *   Compress images (such as with [PageSpeed Image Optimizer](https://i.onthe.io/google_speed)
     or the techniques [described by Google](https://developers.google.com/speed/docs/insights/OptimizeImages))
 *   Images with little detail and small colour pallet, are smaller with png format instead of jpg. If possible, use svg.
@@ -123,7 +125,7 @@
 *   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
     not necessary to render above-the-fold content
 *   Remove jQuery
-*   Add small, single purpose scripts inline 
+*   Add small, single purpose scripts inline
 
 ### Fonts
 
