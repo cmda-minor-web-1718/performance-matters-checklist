@@ -106,6 +106,8 @@
 
 ### CSS
 
+*   Add critical css within a `<style>` tag and deferring non-critical stylesheets
+
 *   Add inline critical CSS (see [Authoring Critical Above-the-Fold CSS](https://css-tricks.com/authoring-critical-fold-css/))
 *   Remove unused CSS files
 *   [Remove unused selectors](http://i.imgur.com/lc1K2xM.jpg) (see [unused-css](https://unused-css.com))
@@ -123,7 +125,7 @@
 *   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
     not necessary to render above-the-fold content
 *   Remove jQuery
-*   Add small, single purpose scripts inline 
+*   Add small, single purpose scripts inline
 
 ### Fonts
 
