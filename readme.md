@@ -58,6 +58,8 @@
 
 ## Minification
 
+Minify CSS, JS and HTML by using something like [GZip](http://www.gzip.org/) or [JS Compress](https://jscompress.com/), [CSS Compressor](https://csscompressor.com/) and [Textfixer](https://www.textfixer.com/html/compress-html-compression.php)
+
 ### Images
 
 *   Compress images (such as with [PageSpeed Image Optimizer](https://i.onthe.io/google_speed)
@@ -123,7 +125,7 @@
 *   Move script links in `<head>` to bottom of document or add `defer` and `async` if they are
     not necessary to render above-the-fold content
 *   Remove jQuery
-*   Add small, single purpose scripts inline 
+*   Add small, single purpose scripts inline
 
 ### Fonts
 
